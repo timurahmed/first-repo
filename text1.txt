@@ -1,11 +1,11 @@
 text text text text text text text text text
 text text text text text text text text text 
-<<<<<<< HEAD
+
 text bashtext bashtext bashtext bashtext 
 bashtext bashtext bashtext ba shtext bashtext 
 bashtext bashtext bashtext bashtext bashtext
-=======
+
 text gittort gittort gittort gittort gittort 
 gittort gittort gittort gittort gittort gittort 
 gittort gittort gittort gittort gittort gittort
->>>>>>> 0c3dfc893a6b893d5105f3df026cd5fac432f0cd
+ 0c3dfc893a6b893d5105f3df026cd5fac432f0cd
